@@ -1,0 +1,9 @@
+# 运行日志
+*.log
+nohup.out
+output.log
+
+# Python
+__pycache__/
+*.pyc
+.DS_Store
